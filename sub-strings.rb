@@ -19,7 +19,3 @@ def main()
 end
 
 main()
-
-# prendere la stringa e convertirla in array, dividendo per parola e poi per lettere(controllare quindi se ho per le mani una lettera)
-# Per confrontare le due parole, direi di mantenere due indici e andare avanti fino a quando non finisce la parola di cui si cercano le sottostringhe
-#
